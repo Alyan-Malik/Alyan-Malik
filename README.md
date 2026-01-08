@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Alyan Malik
 
-🚀 **Full Stack Developer | Machine Learning Engineer | Computer Vision Enthusiast**
+🚀 **Full Stack Developer | Machine Learning Engineer | Computer Vision Enthusiast | Web Scraping Engineer**
 
 I build scalable web applications, intelligent ML/DL systems, and automation pipelines that solve real-world problems. My work spans backend-heavy full-stack development, data scraping, machine learning, deep learning, and computer vision with a strong focus on clean architecture, performance, and practical deployment.
 
