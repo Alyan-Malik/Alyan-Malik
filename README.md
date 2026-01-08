@@ -1,16 +1,29 @@
-## Hi there 👋
+## 👋 Hi, I’m Alyan Malik
 
-<!--
-**Alyan-Malik/Alyan-Malik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full Stack Developer | Machine Learning Engineer | Computer Vision Enthusiast**
 
-Here are some ideas to get you started:
+I build scalable web applications, intelligent ML/DL systems, and automation pipelines that solve real-world problems. My work spans backend-heavy full-stack development, data scraping, machine learning, deep learning, and computer vision with a strong focus on clean architecture, performance, and practical deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technologies & Tools
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,php,javascript" />
+</p>
+
+### Backend & Web
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,flask,vue,tailwind,bootstrap" />
+</p>
+
+### Machine Learning & Computer Vision
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+</p>
+
+### Databases & Dev Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,docker,git,linux" />
+</p>
