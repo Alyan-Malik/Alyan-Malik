@@ -10,7 +10,7 @@ I build scalable web applications, intelligent ML/DL systems, and automation pip
 
 ### Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=vue,javascript,html,css,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,javascript,html,css,tailwind,bootstrap" />
 </p>
 
 ### Backend Development
